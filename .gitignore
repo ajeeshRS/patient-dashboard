@@ -1,0 +1,11 @@
+# Frontend ignores
+/frontend/.env*
+/frontend/node_modules
+
+# Backend ignores
+/backend/.env*
+/backend/node_modules
+
+# General ignores
+.DS_Store
+dist

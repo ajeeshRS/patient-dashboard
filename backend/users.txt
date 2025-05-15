@@ -1,0 +1,3 @@
+{"email":"user@example.com", "password":"123456", "name":"John Doe"}
+{"email":"jane@example.com", "password":"abcdef", "name":"Jane Smith"}
+{"email":"bob@example.com", "password":"qwerty", "name":"Bob Builder"}
